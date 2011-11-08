@@ -1,1 +1,1 @@
-app: bin/hubot -a hipchat -n "The Butler"
+app: bin/hubot -a hipchat -n "hubot"
